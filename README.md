@@ -1,7 +1,7 @@
 # DataAnalystPortfolioProject
 
 1---Data Exploration
- -Using SQL with SSMS to do some Data Exploration. 
+-Using SQL with SSMS to do some Data Exploration. 
 
 
 2----Visuialisation
